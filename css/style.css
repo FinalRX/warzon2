@@ -291,6 +291,10 @@ html {
   position: absolute;
 }
 
+.watermark a {
+  color: rgba(123, 62, 151, 0.743);
+}
+
 @media (min-width: 0px) {
   .watermark {
     margin-bottom: 0.25rem;
